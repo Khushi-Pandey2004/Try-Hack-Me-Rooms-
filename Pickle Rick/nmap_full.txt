@@ -1,0 +1,1 @@
+# Nmap 7.95 scan initiated Sat Nov  1 17:18:45 2025 as: /usr/lib/nmap/nmap --privileged -sC -sV -p- -oN nmap_full.txt 10.201.70.14
