@@ -8,7 +8,7 @@ Each room is stored as a separate folder containing **evidence of practical exec
 
 ## 📂 Repository Structure
 
-'''TryHackMe-Rooms/
+```TryHackMe-Rooms/
 │
 ├── Room-Name-1/
 │ ├── screenshots/
@@ -19,7 +19,7 @@ Each room is stored as a separate folder containing **evidence of practical exec
 │ ├── screenshots/
 │ └── notes.md
 │
-└── ...'''
+└── ...```
 
 
 > Folder names correspond to the actual TryHackMe room names.
