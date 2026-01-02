@@ -12,12 +12,11 @@ TryHackMe-Rooms/
 │
 ├── Room-Name-1/
 │ ├── screenshots/
-│ ├── flags.txt
-│ └── notes.md
+│ ├── Room Completion/
 │
 ├── Room-Name-2/
 │ ├── screenshots/
-│ └── notes.md
+│ └── Room Completion/
 │
 └── ...
 ```
